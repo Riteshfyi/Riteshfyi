@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Riteshfyi
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning DSA
+- 👋 Hi, I’m Ritesh Singh
+- 👀 I’m interested in Web Development & Automation
+- 🌱 I’m currently learning Machine Learning
+- 
   
 
 <!---
