@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ritesh Singh
-- 👀 I’m interested in Web Development & Automation
+- 👀 I’m interested in Automation With Python
 - 🌱 I’m currently learning Machine Learning
 - 
   
