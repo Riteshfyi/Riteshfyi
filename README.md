@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ritesh Singh
+- 👋 Hi, I’m Ritesh 
 
   
 
