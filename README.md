@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ritesh
-- I enjoy working on concurrency & scaling problems.
+- I enjoy working on concurrency & scaling.
 
   
 
